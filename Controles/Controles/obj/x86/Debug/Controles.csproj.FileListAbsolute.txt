@@ -1,0 +1,15 @@
+F:\T.I\L.P\2ºBimestre\Controles\Controles\bin\Debug\Controles.exe
+F:\T.I\L.P\2ºBimestre\Controles\Controles\bin\Debug\Controles.pdb
+F:\T.I\L.P\2ºBimestre\Controles\Controles\obj\x86\Debug\Controles.Form1.resources
+F:\T.I\L.P\2ºBimestre\Controles\Controles\obj\x86\Debug\Controles.Properties.Resources.resources
+F:\T.I\L.P\2ºBimestre\Controles\Controles\obj\x86\Debug\Controles.csproj.GenerateResource.Cache
+F:\T.I\L.P\2ºBimestre\Controles\Controles\obj\x86\Debug\Controles.exe
+F:\T.I\L.P\2ºBimestre\Controles\Controles\obj\x86\Debug\Controles.pdb
+D:\T.I\L.P\2ºBimestre\Controles\Controles\obj\x86\Debug\Controles.exe
+D:\T.I\L.P\2ºBimestre\Controles\Controles\obj\x86\Debug\Controles.pdb
+D:\T.I\L.P\2ºBimestre\Controles\Controles\bin\Debug\Controles.exe
+D:\T.I\L.P\2ºBimestre\Controles\Controles\bin\Debug\Controles.pdb
+D:\T.I\L.P\2ºBimestre\Controles\Controles\obj\x86\Debug\Controles.csprojResolveAssemblyReference.cache
+D:\T.I\L.P\2ºBimestre\Controles\Controles\obj\x86\Debug\Controles.Form1.resources
+D:\T.I\L.P\2ºBimestre\Controles\Controles\obj\x86\Debug\Controles.Properties.Resources.resources
+D:\T.I\L.P\2ºBimestre\Controles\Controles\obj\x86\Debug\Controles.csproj.GenerateResource.Cache
